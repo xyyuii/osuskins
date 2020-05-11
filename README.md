@@ -7,10 +7,10 @@
 update (5/11/20):
 - Added xyyuii 1.1
 
-# [xyyuii v1](https://www.mediafire.com/file/prk024h0edb706z/xyyuii_v1.rar/file)
+# [xyyuii v1 (anime free)](https://www.mediafire.com/file/prk024h0edb706z/xyyuii_v1.rar/file)
 ![](https://cdn.discordapp.com/attachments/366636249240567808/709385853054615572/screenshot126.png)
 
-# [xyyuii 1.2](http://www.mediafire.com/file/k0nwzssmw85qi8k/xyyuii_1.1.rar/file)
+# [xyyuii 1.2 (has some elements of anime)](http://www.mediafire.com/file/k0nwzssmw85qi8k/xyyuii_1.1.rar/file)
 ![](https://cdn.discordapp.com/attachments/366636249240567808/709386143711625367/screenshot127.png)
 
 # [Cookiezi 16 2016-01-09](https://joofixd.s-ul.eu/br46LPGc)
