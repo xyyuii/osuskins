@@ -2,8 +2,6 @@
 
 # Here is a list of skins that I mainly use on osu! Some of these are ones that I have technically made, others are made by other people.
 
-# Btw, don't expect the ones I made to be super good or to be the best fit for you :p Enjoy :D
-
 update (5/11/20):
 - Added xyyuii 1.1
 
