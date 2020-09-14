@@ -2,14 +2,17 @@
 
 # Here is a list of skins that I mainly use on osu! Some of these are ones that I have technically made, others are made by other people.
 
-update (5/11/20):
-- Added xyyuii 1.1
+update (9/13/20):
+- Added xyyuii v2
 
-# [xyyuii v1 (anime free)](https://www.mediafire.com/file/prk024h0edb706z/xyyuii_v1.rar/file)
-![](https://cdn.discordapp.com/attachments/366636249240567808/709385853054615572/screenshot126.png)
+# [xyyuii v2 (personal skin) (final version)](http://www.mediafire.com/file/ivpq3948pyt3et3/file)
+![](https://cdn.discordapp.com/attachments/366636249240567808/754868676003365016/screenshot751.jpg)
 
 # [xyyuii 1.2 (has some elements of anime)](http://www.mediafire.com/file/k0nwzssmw85qi8k/xyyuii_1.1.rar/file)
 ![](https://cdn.discordapp.com/attachments/366636249240567808/709386143711625367/screenshot127.png)
+
+# [xyyuii v1 (anime free)](https://www.mediafire.com/file/prk024h0edb706z/xyyuii_v1.rar/file)
+![](https://cdn.discordapp.com/attachments/366636249240567808/709385853054615572/screenshot126.png)
 
 # [Cookiezi 16 2016-01-09](https://joofixd.s-ul.eu/br46LPGc)
 ![](https://osu.ppy.sh/ss/14823912/c19f)
