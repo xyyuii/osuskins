@@ -2,11 +2,6 @@
 
 # Here are a list of skins that I mainly use (or have used) on osu! Some of these are ones that I have technically made, others are made by other people.
 
-update (7/20/23):
-- Added new current skin
-
-# [Whitecat 2.1 (xyyuii edit)](https://drive.google.com/file/d/18JHnEorE08hDm2MQ90-qVDWfk2oVFp_d/view?usp=sharing)
-![](https://cdn.discordapp.com/attachments/366636249240567808/1131687670809100288/Screenshot_2023-07-20_164013.png)
 
 # [404 SkinNotFound v2](https://joofixd.s-ul.eu/Ia93XGt5)
 ![](https://camo.githubusercontent.com/afb6308c11b0c1c1f2a8150d3bc763f6e860af0c107793cbd4bde6afe2e67ef8/68747470733a2f2f6f73752e7070792e73682f73732f31333438383938392f61373661)
